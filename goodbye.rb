@@ -1,1 +1,1 @@
-puts "Hoşçakal"
+puts "Good Bye"
