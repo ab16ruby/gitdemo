@@ -1,1 +1,1 @@
-puts "Bye Bye"
+puts "Good Bye"
